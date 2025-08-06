@@ -6,6 +6,6 @@ def test_add():
 
 def test_sub():
     assert sub(12,3) == 9
-    assert sub(1,1) == 0
+    assert sub(2,0) == 2
 
     
